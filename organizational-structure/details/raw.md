@@ -88,3 +88,5 @@ how things are going to be handled in future versions,
 how access level are defined, Province Coordinator in phase 2.0 and Province President in phase 2.1 is going to be same, access level needs to be dinfed as phase 2.1 even though postion name is displayed as 2.0,
 
 basically, even though access level is going to be same, in 2.0, only limited positions are available when it comes to 2.1 its more in complete version, let's update database .sql, documentation and data based on this setup
+
+based on the available province and district, with example, keeping in mind that term keeps on adding up, organizational setup, 2.1 is stable orgnanizational setup but due to certain factor, 1.0 was unable to make 1.1 and handovered authority to 2.0, 2.0 is a short term committee which works on making 2.1, even though central committee is in complete phase, province and district needs more works, 
